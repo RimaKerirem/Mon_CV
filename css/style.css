@@ -267,6 +267,8 @@ header .container .list a:hover::after {
   text-align: center;
   line-height: 1.9;
   letter-spacing: 3px;
+  font-size: 18px;
+  margin-top: 20px;
 }
 
 .propos {

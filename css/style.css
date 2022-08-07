@@ -439,7 +439,6 @@ header .container .list a:hover::after {
   top: 0;
   background-color: var(--light-color);
   transition: var(--transition) linear;
-  
 }
 
 .competences .container .box .comp .progress span::before {
@@ -518,8 +517,8 @@ header .container .list a:hover::after {
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   position: absolute;
-  left: -30px;
-  top: 10px;
+  left: -20px;
+  top: 14px;
   font-size: 16px;
 }
 

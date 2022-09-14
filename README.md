@@ -1,7 +1,9 @@
 # Mon_CV
 
-### Languages : HTML, CSS and Javascript
+### Built with
 
-### Frameworks : Font Awesome 6
+  #### Languages : HTML, CSS and Javascript
+
+  #### Frameworks : Font Awesome 6
 
 ### Visit Site : https://rimakerirem.github.io/Mon_CV/

@@ -1,7 +1,7 @@
 # Mon_CV
 
 
-### Built with
+### Built with :
 ####	- Languages : HTML, CSS and Javascript
 ####	- Frameworks : Font Awesome 6
 
